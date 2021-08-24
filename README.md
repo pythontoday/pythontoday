@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, what's up 👋
+___
 
-<!--
-**pythontoday/pythontoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😎 I'm a digital nomad, learn Python, JS, GO, and make videos on [my YouTube channel](https://www.youtube.com/c/PythonToday/videos).
+- 🚀 I am currently working on [netstalkers.com](https://netstalkers.com).
+- 💡 Most of the time I'm writing and learning Python, JS, GO, and ethical hacking.
+- ✏️ I write articles on my blog [Telegram](https://t.me/python2day), [netstalkers.com](https://netstalkers.com).
+- ⚡️ I DONT'T HATE PEOPLE... I JUST LOVE CODING MORE!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with me
++ 🔥 [PATREON](https://www.patreon.com/pythontoday)
++ 🎥 [PYTHON:TODAY](https://www.youtube.com/c/PythonToday/videos)
++ 💣 [Telegram](https://t.me/python2day)
++ 💬 [Twitter](https://twitter.com/python2day)
+___
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythontoday&show_icons=true&theme=tokyonight)
