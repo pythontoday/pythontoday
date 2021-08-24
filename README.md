@@ -1,4 +1,4 @@
-### Hey, what's up 👋
+## Hey, what's up 👋
 ___
 
 - 😎 I'm a digital nomad, learn Python, JS, GO, and make videos on [my YouTube channel](https://www.youtube.com/c/PythonToday/videos).
