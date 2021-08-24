@@ -5,7 +5,7 @@ ___
 - 🚀 I am currently working on [netstalkers.com](https://netstalkers.com).
 - 💡 Most of the time I'm writing and learning Python, JS, GO, and ethical hacking.
 - ✏️ I write articles on my blog [Telegram](https://t.me/python2day), [netstalkers.com](https://netstalkers.com).
-- ⚡️ I DONT'T HATE PEOPLE... I JUST LOVE CODING MORE!
+- ⚡️ I DON'T HATE PEOPLE... I JUST LOVE CODING MORE!
 
 ## 🤝 Connect with me
 + 🔥 [PATREON](https://www.patreon.com/pythontoday)
